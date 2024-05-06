@@ -1,0 +1,13 @@
+{
+  "title": "electron-app-template",
+  "common": {
+    "open": "Open",
+    "close": "Close",
+    "quit": "Quit"
+  },
+  "update": {
+    "title": "Update available",
+    "message": "A new version of the application is available. Do you want to update now?",
+    "button": "Update"
+  }
+}
